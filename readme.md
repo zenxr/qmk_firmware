@@ -1,3 +1,6 @@
+This branch holds my setup of qmk for a [Dactyl Manuform Stabilized](https://github.com/brucedjones/dactyl-stabilized?tab=readme-ov-file),
+keeping the commit (d27b852fccf6165730b5a013e49ae69ab3124c56) where I forked from official qmk and have a known working state.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
